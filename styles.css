@@ -42,3 +42,7 @@ tbody {
 tfoot {
   font-weight: bold;
 }
+
+.bordered-column {
+  border: 2px solid black;
+}
